@@ -26,6 +26,24 @@ By completing this learning path, you will:
 
 Are you ready to embark on a journey to master data structures and algorithms? Let's dive into the world of programming and problem-solving together! Start your learning journey today and unlock the power of data structures and algorithms in software development.
 
+#### Types of Time Complexity
+
+```graphviz
+digraph G {
+    rankdir=LR;
+    node [shape=record];
+    ConstantTime [label="Constant Time: O(1)"];
+    LogarithmicTime [label="Logarithmic Time: O(log n)"];
+    LinearTime [label="Linear Time: O(n)"];
+    LinearithmicTime [label="Linearithmic Time: O(n log n)"];
+    QuadraticTime [label="Quadratic Time: O(n^2)"];
+    CubicTime [label="Cubic Time: O(n^3)"];
+    ExponentialTime [label="Exponential Time: O(2^n)"];
+    FactorialTime [label="Factorial Time: O(n!)"];
+    ConstantTime -> LogarithmicTime -> LinearTime -> LinearithmicTime -> QuadraticTime -> CubicTime -> ExponentialTime -> FactorialTime;
+}
+```
+
 ---
 
 #### Table of Contents
