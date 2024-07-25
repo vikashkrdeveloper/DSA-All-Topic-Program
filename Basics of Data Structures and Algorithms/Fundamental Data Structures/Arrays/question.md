@@ -7,7 +7,7 @@
    - Reverse an array. ==> File : [reverse_an_array.cpp](reverse_an_array.cpp) ✅
    - Find the maximum and minimum elements in an array. ==> File : [max_min_elements_in_an_array.cpp](max_min_elements_in_an_array.cpp) ✅
    - Rotate an array by `k` positions. ==> File : [rotate_an_array_by_k_positions.cpp](rotate_an_array_by_k_positions.cpp) ✅
-   - Move all zeroes to the end of an array. ==> File : [move_all_zeroes_to_end_of_an_array.cpp](move_all_zeroes_to_end_of_an_array.cpp)
+   - Move all zeroes to the end of an array. ==> File : [move_all_zeroes_to_end_of_an_array.cpp](move_all_zeroes_to_end_of_an_array.cpp) ✅
 
 2. **Basic Operations** ==> Folder : [Basic Operations](Basic%20Operations)
 
