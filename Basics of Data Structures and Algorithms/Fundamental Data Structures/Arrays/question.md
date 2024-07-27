@@ -11,9 +11,9 @@
 
 2. **Basic Operations** ==> Folder : [Basic Operations](Basic%20Operations)
 
-   - Find the second largest and second smallest elements in an array. ==> File : [second_largest_and_second_smallest_elements_in_an_array.cpp](second_largest_and_second_smallest_elements_in_an_array.cpp)
-   - Check if an array is sorted. ==> File : [check_if_an_array_is_sorted.cpp](check_if_an_array_is_sorted.cpp)
-   - Count the frequency of each element in an array. ==> File : [count_frequency_of_each_element_in_an_array.cpp](count_frequency_of_each_element_in_an_array.cpp)
+   - Find the second largest and second smallest elements in an array. ==> File : [second_largest_and_second_smallest_elements_in_an_array.cpp](second_largest_and_second_smallest_elements_in_an_array.cpp) ✅
+   - Check if an array is sorted. ==> File : [check_if_an_array_is_sorted.cpp](check_if_an_array_is_sorted.cpp) ✅
+   - Count the frequency of each element in an array. ==> File : [count_frequency_of_each_element_in_an_array.cpp](count_frequency_of_each_element_in_an_array.cpp) ✅
 
 3. **Special Arrays** ==> Folder : [Special Arrays](Special%20Arrays)
 
