@@ -17,9 +17,9 @@
 
 3. **Special Arrays** ==> Folder : [Special Arrays](Special%20Arrays)
 
-   - Find the missing number in an array of 1 to n. ==> File : [find_the_missing_number_in_an_array_of_1_to_n.cpp](find_the_missing_number_in_an_array_of_1_to_n.cpp)
-   - Find the duplicate number in an array. ==> File : [find_the_duplicate_number_in_an_array.cpp](find_the_duplicate_number_in_an_array.cpp)
-   - Find the common elements in two sorted arrays. ==> File : [find_the_common_elements_in_two_sorted_arrays.cpp](find_the_common_elements_in_two_sorted_arrays.cpp)
+   - Find the missing number in an array of 1 to n. ==> File : [find_the_missing_number_in_an_array_of_1_to_n.cpp](find_the_missing_number_in_an_array_of_1_to_n.cpp) ✅
+   - Find the duplicate number in an array. ==> File : [find_the_duplicate_number_in_an_array.cpp](find_the_duplicate_number_in_an_array.cpp) ✅
+   - Find the common elements in two sorted arrays. ==> File : [find_the_common_elements_in_two_sorted_arrays.cpp](find_the_common_elements_in_two_sorted_arrays.cpp) ✅
 
 4. **Searching and Sorting** ==> Folder : [Searching and Sorting](Searching%20and%20Sorting)
 
