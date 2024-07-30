@@ -23,8 +23,8 @@
 
 4. **Searching and Sorting** ==> Folder : [Searching and Sorting](Searching%20and%20Sorting)
 
-   - Linear Search. ==> File : [linear_search.cpp](linear_search.cpp)
-   - Binary Search. ==> File : [binary_search.cpp](binary_search.cpp)
+   - Linear Search. ==> File : [linear_search.cpp](linear_search.cpp) ✅
+   - Binary Search. ==> File : [binary_search.cpp](binary_search.cpp) ✅
    - Bubble Sort. ==> File : [bubble_sort.cpp](bubble_sort.cpp)
    - Selection Sort. ==> File : [selection_sort.cpp](selection_sort.cpp)
    - Insertion Sort. ==> File : [insertion_sort.cpp](insertion_sort.cpp)
