@@ -25,11 +25,11 @@
 
    - Linear Search. ==> File : [linear_search.cpp](linear_search.cpp) ✅
    - Binary Search. ==> File : [binary_search.cpp](binary_search.cpp) ✅
-   - Bubble Sort. ==> File : [bubble_sort.cpp](bubble_sort.cpp)
-   - Selection Sort. ==> File : [selection_sort.cpp](selection_sort.cpp)
-   - Insertion Sort. ==> File : [insertion_sort.cpp](insertion_sort.cpp)
-   - Merge Sort. ==> File : [merge_sort.cpp](merge_sort.cpp)
-   - Quick Sort. ==> File : [quick_sort.cpp](quick_sort.cpp)
+   - Bubble Sort. ==> File : [bubble_sort.cpp](bubble_sort.cpp) ✅
+   - Selection Sort. ==> File : [selection_sort.cpp](selection_sort.cpp) ✅
+   - Insertion Sort. ==> File : [insertion_sort.cpp](insertion_sort.cpp) ✅
+   - Merge Sort. ==> File : [merge_sort.cpp](merge_sort.cpp) ✅
+   - Quick Sort. ==> File : [quick_sort.cpp](quick_sort.cpp) ✅
 
 5. **Basic Mathematical Operations** ==> Folder : [Basic Mathematical Operations](Basic%20Mathematical%20Operations)
 
